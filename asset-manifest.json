@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DeepaselvakumarM/Deepaportfolio.git/static/css/main.3f2f8589.css",
+    "main.js": "/DeepaselvakumarM/Deepaportfolio.git/static/js/main.44ae4b48.js",
+    "static/media/Abouts.png": "/DeepaselvakumarM/Deepaportfolio.git/static/media/Abouts.f6aaf008ddea16bc0f7f.png",
+    "static/media/ecommerce-websites.jpg": "/DeepaselvakumarM/Deepaportfolio.git/static/media/ecommerce-websites.a5d17e54a5ffb19ff686.jpg",
+    "index.html": "/DeepaselvakumarM/Deepaportfolio.git/index.html",
+    "main.3f2f8589.css.map": "/DeepaselvakumarM/Deepaportfolio.git/static/css/main.3f2f8589.css.map",
+    "main.44ae4b48.js.map": "/DeepaselvakumarM/Deepaportfolio.git/static/js/main.44ae4b48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f2f8589.css",
+    "static/js/main.44ae4b48.js"
+  ]
+}
