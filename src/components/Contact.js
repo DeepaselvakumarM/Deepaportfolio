@@ -16,7 +16,7 @@
 
 
 import { motion } from 'framer-motion';
-import { AiOutlineMail, AiOutlinePhone, AiFillLinkedin } from 'react-icons/ai';
+import { AiOutlineMail, AiOutlinePhone, AiFillLinkedin, AiFillGithub } from 'react-icons/ai';
 
 export default function Contact() {
   const fadeIn = {
@@ -81,7 +81,24 @@ export default function Contact() {
             <AiFillLinkedin className="text-xl" />
             Connect on LinkedIn
           </a>
+
         </div>
+
+ <div className="mt-10">
+          <a
+            href="https://github.com/DeepaselvakumarM"
+            target="_blank"
+            rel="noreferrer"
+            className="inline-flex items-center gap-2 px-6 py-3 bg-[#1976d2] text-white rounded-full font-medium hover:bg-[#64ffda] hover:text-black transition duration-300"
+          >
+            <AiFillGithub className="text-xl" />
+            Git Hub
+          </a>
+
+        </div>
+
+
+
       </motion.div>
     </section>
   );
