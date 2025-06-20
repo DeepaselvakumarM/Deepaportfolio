@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Deepaportfolio/static/css/main.3f2f8589.css",
-    "main.js": "/Deepaportfolio/static/js/main.ff45135b.js",
+    "main.css": "/Deepaportfolio/static/css/main.fd99c011.css",
+    "main.js": "/Deepaportfolio/static/js/main.3ab181e2.js",
     "static/media/Abouts.png": "/Deepaportfolio/static/media/Abouts.f6aaf008ddea16bc0f7f.png",
-    "static/media/ecommerce-websites.jpg": "/Deepaportfolio/static/media/ecommerce-websites.a5d17e54a5ffb19ff686.jpg",
+    "static/media/LMS.jpg": "/Deepaportfolio/static/media/LMS.2bfb0d7be6e3f8b01ee7.jpg",
     "index.html": "/Deepaportfolio/index.html",
-    "main.3f2f8589.css.map": "/Deepaportfolio/static/css/main.3f2f8589.css.map",
-    "main.ff45135b.js.map": "/Deepaportfolio/static/js/main.ff45135b.js.map"
+    "main.fd99c011.css.map": "/Deepaportfolio/static/css/main.fd99c011.css.map",
+    "main.3ab181e2.js.map": "/Deepaportfolio/static/js/main.3ab181e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f2f8589.css",
-    "static/js/main.ff45135b.js"
+    "static/css/main.fd99c011.css",
+    "static/js/main.3ab181e2.js"
   ]
 }
